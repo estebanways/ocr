@@ -1,0 +1,2 @@
+# ocr
+🪐 OCR - Azure Cloud
